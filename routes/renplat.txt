@@ -1,4 +1,5 @@
 Starter|piplup,turtwig,chimchar
+
 Twinleaf Town|eevee,psyduck,golduck,magikarp,poliwag,gyarados,poliwhirl
 Route 201|starly,bidoof,pidgey,kricketot,nidoran-m,nidoran-f,hoothoot,doduo
 
@@ -33,6 +34,9 @@ Eterna Forest|buneary,shroomish,paras,slakoth,nincada,taillow,murkrow,misdreavus
 
 The Old Chateau|rotom,gastly,haunter,gengar,rattata,raticate,duskull,shuppet
 Eterna City|omanyte,kabuto,aerodactyl,lileep,anorith,cranidos,shieldon,psyduck,golduck,magikarp,poliwag,dratini,gyarados,poliwhirl,dragonair
+Mt. Coronet|geodude,bronzor,cleffa,nosepass,chingling,zubat,beldum,solrock,lunatone,clefairy,chimecho,metang,spheal,seel,sealeo,feebas,golbat,magikarp,barboach,gyarados,whiscash,graveler,bronzong,abomasnow,medicham,loudred,absol,donphan,ursaring,clefable,horsea,dratini,seadra,dragonair
+Route 216|snover,swinub,smoochum,snorunt,sneasel,delibird
+Route 211|meditite,machop,swablu,teddiursa,natu,bagon,tyrogue,aipom,slakoth,metapod,kakuna,munchlax,chingling,tyrogue
 
 --Eterna Gym|2|gym-leader|Gardenia
 
@@ -49,7 +53,6 @@ Wayward Cave|gabite,zubat,geodude,gible,baltoy,sandshrew,onix,sableye,mawile
 
 --Wayward Cave|mira||Mira
 
-Mt. Coronet|geodude,bronzor,cleffa,nosepass,chingling,zubat,beldum,solrock,lunatone,clefairy,chimecho,metang,spheal,seel,sealeo,feebas,golbat,magikarp,barboach,gyarados,whiscash,graveler,bronzong,abomasnow,medicham,loudred,absol,donphan,ursaring,clefable,horsea,dratini,seadra,dragonair
 Route 208|bibarel,roselia,skitty,jigglypuff,kirlia,zangoose,seviper,smeargle,dunsparce,psyduck,golduck,magikarp,goldeen,remoraid,gyarados,seaking,octillery,cherubi,shroomish,exeggcute,seedot,tangela
 
 --Route 208|aaron||Aaron
@@ -60,8 +63,10 @@ Route 208|bibarel,roselia,skitty,jigglypuff,kirlia,zangoose,seviper,smeargle,dun
 
 --Route 212|sat1|evil-team|Saturn & Gentleman Backlot
 
+Route 212|staravia,marill,roselia,weepinbell,gloom,kirlia,smeargle,farfetchd,azumarill,magikarp,goldeen,gyarados,seaking,cherubi,shroomish,exeggcute,nuzleaf,tangela,croagunk,grimer,koffing,ekans,lombre,arbok,toxicroak,muk,weezing,shellos,wooper,gastrodon,quagsire,barboach,remoraid,whiscash,octillery,cherrim
+Trophy Garden|pichu,pikachu,cleffa,igglybuff,togepi,porygon,happiny,eevee,castform
 Route 209|spiritomb,staravia,glameow,vulpix,bonsly,mime-jr,snubbull,meowth,chansey,purugly,psyduck,golduck,magikarp,goldeen,gyarados,seaking,pidgeotto,noctowl,swellow,farfetchd
-The Lost Tower
+The Lost Tower|shuppet,duskull,golbat,haunter,murkow,misdreavus,dusclops,manette
 Solaceon Ruins|unown
 Route 210|kricketune,nuzleaf,scyther,pinsir,miltank,tauros,pidgeotto,rapidash,noctowl,kecleon,combee,pineco,silcoon,cascoon,wormadam,mothim,heracross,swablu,fearow,machoke,drifblim,zangoose,seviper,skarmory,shelgon,altaria,psyduck,golduck,magikarp,horsea,dratini,gyarados,seadra,dragonair,staravia,swellow,farfetchd
 Route 215|marill,drowzee,lickitung,kadabra,mightyena,linoone,hypno,absol,aipom,vigoroth,metapod,kakuna,munchlax
@@ -74,8 +79,7 @@ Veilstone City
 --Route 210|l2|rival|Lucas
 
 Route 214|graveler,houndour,rhyhorn,numel,spoink,cacnea,spinda,psyduck,golduck,magikarp,goldeen,gyarados,seaking,aipom,vigoroth,butterfree,beedrill,munchlax
-Ruin Maniac's Cave
-Ruin Maniac's Tunnel
+Maniac Tunnel|diglett,whismur,hippopotas,trapinch,loudred,ditto,dugtrio
 Valor Lakefront|girafarig,bibarel,nidorina,nidorino,kricketune,venomoth
 Pastoria City|lapras,tentacool,shellos,tentacruel,gastrodon,magikarp,poliwag,carvanha,gyarados,poliwhirl,sharpedo
 Great Marsh|bibarel,quagsire,tropius,tangela,carnivine,wooper,magikarp,barboach,carvanha,gyarados,whiscash,sharpedo,parasect,exeggcute,croagunk,toxicroak,kangaskhan,yanma,skorupi,gulpin,shroomish,swalot,breloom,drapion
@@ -83,8 +87,6 @@ Great Marsh|bibarel,quagsire,tropius,tangela,carnivine,wooper,magikarp,barboach,
 --Pastoria City|b4|rival|Barry
 
 --Pastoria Gym|5|gym-leader|Crasher Wake
-
-Route 212|staravia,marill,roselia,weepinbell,gloom,kirlia,smeargle,farfetchd,azumarill,magikarp,goldeen,gyarados,seaking,cherubi,shroomish,exeggcute,nuzleaf,tangela,croagunk,grimer,koffing,ekans,lombre,arbok,toxicroak,muk,weezing,shellos,wooper,gastrodon,quagsire,barboach,remoraid,whiscash,octillery,cherrim
 Route 213|gastrodon,floatzel,pelipper,swellow,chatot,shuckle,absol,tentacool,wingull,tentacruel,magikarp,remoraid,wailmer,gyarados,octillery,wailord,staravia,pidgeotto,noctowl,farfetchd
 Celestic Town|psyduck,golduck,magikarp,relicanth,gyarados
 
@@ -108,13 +110,10 @@ Iron Island|wingull,tentacool,pelipper,tentacruel,magikarp,finneon,qwilfish,gyar
 
 --Canalave Gym|6|gym-leader|Byron
 
-Route 211|meditite,machop,swablu,teddiursa,natu,bagon,tyrogue,aipom,slakoth,metapod,kakuna,munchlax,chingling,tyrogue
-
 --Valor Cavern|sat2|evil-team|Saturn
 
 --Lake Verity|mars2|evil-team|Mars
 
-Route 216|snover,swinub,smoochum,snorunt,sneasel,delibird
 Route 217|piloswine,snorunt,sneasel,jynx,abomasnow,glalie,delibird,froslass
 Acuity Lakefront|piloswine,snorunt,sneasel,jynx,abomasnow,glalie,delibird,froslass
 Lake Acuity|sneasel,abomasnow,piloswine,jynx,glalie,wobbuffet,sealeo,dewgong,lapras,magikarp,gyarados
