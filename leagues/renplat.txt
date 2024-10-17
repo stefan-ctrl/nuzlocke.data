@@ -230,8 +230,8 @@ arcanine|41|heat-wave,thunder-fang,outrage,crunch|intimidate|expert-belt|fire
 breloom|41|bullet-seed,force-palm,spore,rock-tomb|technician|focus-sash|fire
 breloom|41|bullet-seed,force-palm,spore,rock-tomb|technician|focus-sash|grass
 torterra|42|seed-bomb,earthquake,crunch,iron-head|overgrow|sitrus-berry|water
-infernape|42|flamethrower,close-combat,fake-out,thunder-punch|iron-fist|sitrus-berry|fire
-empoleon|42|scald,flash-cannon,agility,swagger|torrent|sitrus-berry|grass
+infernape|42|flamethrower,close-combat,fake-out,thunder-punch|iron-fist|sitrus-berry|grass
+empoleon|42|scald,flash-cannon,agility,swagger|torrent|sitrus-berry|fire
 
 --b5|Barry||/leaders/dp-barry#Canalave City
 staraptor|48|double-edge,brave-bird,close-combat,u-turn|reckless|choice-band
@@ -244,8 +244,8 @@ arcanine|48|flare-blitz,extreme-speed,crunch,close-combat|intimidate|expert-belt
 breloom|48|bullet-seed,force-palm,spore,stone-edge|technician|focus-sash|fire
 breloom|48|bullet-seed,force-palm,spore,stone-edge|technician|focus-sash|grass
 torterra|49|wood-hammer,earthquake,crunch,iron-head|overgrow|sitrus-berry|water
-infernape|49|fire-blast,close-combat,fake-out,thunder-punch|iron-fist|sitrus-berry|fire
-empoleon|49|surf,flash-cannon,grass-knot,agility|torrent|sitrus-berry|grass
+infernape|49|fire-blast,close-combat,fake-out,thunder-punch|iron-fist|sitrus-berry|grass
+empoleon|49|surf,flash-cannon,grass-knot,agility|torrent|sitrus-berry|fire
 
 --b6|Barry||/leaders/dp-barry#Victory Road
 staraptor|70|double-edge,brave-bird,close-combat,u-turn|intimidate|choice-scarf
@@ -258,8 +258,8 @@ arcanine|70|flare-blitz,close-combat,wild-charge,crunch|intimidate|life-orb|fire
 breloom|70|bullet-seed,force-palm,stone-edge,spore|technician|life-orb|grass
 breloom|70|bullet-seed,force-palm,stone-edge,spore|technician|life-orb|fire
 torterra|71|wood-hammer,earthquake,stone-edge,crunch|overgrow|sitrus-berry|water
-infernape|71|flare-blitz,close-combat,stone-edge,grass-knot|iron-fist|sitrus-berry|fire
-empoleon|71|hydro-pump,flash-cannon,grass-knot,blizzard|torrent|sitrus-berry|grass
+infernape|71|flare-blitz,close-combat,stone-edge,grass-knot|iron-fist|sitrus-berry|grass
+empoleon|71|hydro-pump,flash-cannon,grass-knot,blizzard|torrent|sitrus-berry|fire
 
 # Gym leaders
 --1|Roark|rock|/leaders/dp-roark
